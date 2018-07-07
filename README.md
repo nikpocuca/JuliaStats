@@ -1,2 +1,2 @@
 # JuliaStats
-A collection of statistical topics/algorithms that I have gone and re-coded in the brand new language Julia. 
+A collection of statistical topics/algorithms that I have programmed in the brand new language Julia. 
